@@ -5,7 +5,7 @@ Outdegree.java calculates outdegree fo the dataset.
 Totaldegree.java calculates total degree based on output of indegree and outdegree.
 
 
-Categorization Statistics
+Categorization Statistics:
 1. 1_mean_cmnt_cnt_by_ctgr.java: calculates the average number of comment by each video category.
 2. 2_mean_ratng_cnt_by_ctgr.java: calculates the average number of ratings by each video category.
 3. 3_mean_view_cnt_by_ctgr.java: calculates the average number of view count by each video category.
