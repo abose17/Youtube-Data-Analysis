@@ -12,7 +12,6 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
    public class App {
-    
     public static class Map extends Mapper<LongWritable, Text, Text,
     IntWritable> {
            int count =0;
